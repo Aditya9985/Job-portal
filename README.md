@@ -1,12 +1,4 @@
-##### This App is Live and Running At the following
-#### https://job-portal-teal.vercel.app
-adding my code
 
- - don't forget to leave a star ! :)
-
-## Authors
-
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
 
 ## Features
 
