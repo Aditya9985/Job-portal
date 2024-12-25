@@ -74,7 +74,7 @@ export default function Intro() {
           <pre>   </pre>
           <pre>  </pre>
         </ul>
-        <div className="text-lg font-semibold mb-6">₹9 / Month</div>
+        <div className="text-lg font-semibold mb-6">₹0 / Month</div>
         <button className="w-full py-2 bg-indigo-600 text-white rounded-md hover:bg-indigo-700 transition-all">
           Choose Plan
         </button>
@@ -109,6 +109,7 @@ export default function Intro() {
           <li>✔ Premium support</li>
         </ul>
         <div className="text-lg font-semibold mb-6">₹99 / Month</div>
+        <br></br>
         <button className="w-full py-2 bg-indigo-600 text-white rounded-md hover:bg-indigo-700 transition-all">
           Choose Plan
         </button>
@@ -124,21 +125,21 @@ export default function Intro() {
             <div className="flex flex-col">
               <h3 className="text-2xl font-semibold mb-4">Company</h3>
               <ul>
-                <li><a href="/" className="hover:text-gray-200">About Us</a></li>
-                <li><a href="/" className="hover:text-gray-200">Careers</a></li>
-                <li><a href="/" className="hover:text-gray-200">Blog</a></li>
+                <li><a href="" className="hover:text-gray-200">About Us</a></li>
+                <li><a href="" className="hover:text-gray-200">Careers</a></li>
+                <li><a href="" className="hover:text-gray-200">Blog</a></li>
               </ul>
             </div>
             <div className="flex flex-col">
               <h3 className="text-2xl font-semibold mb-4">Contact</h3>
               <ul>
                 <li><a href="mailto:info@company.com" className="hover:text-gray-200">info@company.com</a></li>
-                <li><a href="tel:+123456789" className="hover:text-gray-200">+1 234 567 89</a></li>
+                <li><a href="tel:+9123456789" className="hover:text-gray-200">+91 234 567 89</a></li>
               </ul>
             </div>
           </div>
           <div className="text-center">
-            <p className="text-sm">&copy; 2024 Company Name. All rights reserved.</p>
+            <p className="text-sm">&copy; 2024 hired Company. All rights reserved.</p>
           </div>
         </div>
       </footer>
