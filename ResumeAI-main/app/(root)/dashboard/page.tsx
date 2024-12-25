@@ -6,7 +6,6 @@ import React from "react";
 const Dashboard = () => {
   return (
     <PageWrapper>
-      <Header />
       <div className="my-10 !mb-0 mx-10 md:mx-20 lg:mx-36">
         <h2 className="text-center text-2xl font-bold">
           Your Resume Dashboard
